@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67cfe9a18f2ef34a7d98c17b_6c1387ca-fc70-4832-8d6c-06cae355adcd",
+  "moduleUUID": "12b99ab9-de5e-4759-b95c-c70bcba013f8",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "babukyyvxt",
+        "sectionName": ""
+      }
+    ],
+    "name": "GetUsers"
+  }
+}
