@@ -1,14 +1,17 @@
 export default {
 	myVar1: [],
 	myVar2: {},
-	getUsers () {
+	myFun1 () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return GetUsers.run();
+		return JSModule1.getUsers()
 	},
-	async getCountUsers () {
+	async myFun2 () {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 		return await CountUsers.run()
+	},
+	foo() {
+		return "foo"
 	}
 }

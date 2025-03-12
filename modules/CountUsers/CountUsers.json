@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67d16ca767c40648418e9089_d7dc9864-9858-479c-967c-50665e1efe52",
+  "moduleUUID": "01ba9752-0723-4dc6-94c6-9bcc7d568cbb",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "deniqciksi",
+        "sectionName": ""
+      }
+    ],
+    "name": "CountUsers"
+  }
+}
