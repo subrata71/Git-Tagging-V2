@@ -10,14 +10,14 @@
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
             "id": "hcemoumico",
-            "label": "myFun1",
+            "label": "getUsers",
             "propertyName": "inputs.myFun1"
           },
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
             "id": "ucovdvxpxw",
-            "label": "myFun2",
+            "label": "getCountUsers",
             "propertyName": "inputs.myFun2"
           }
         ],
