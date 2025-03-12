@@ -1,6 +1,6 @@
 {
   "gitSyncId": "67d16ca767c40648418e9089_0364e0d2-42de-4a55-9846-cf02c1db3f9c",
-  "id": "JSModule2_JSModule1",
+  "id": "JSModule2_JSModuleOne",
   "moduleUUID": "c7202a09-6273-493f-b072-4b195076ae3c",
   "packageUUID": "14687fb9-1ee1-4d88-a867-0e374ee1a81c",
   "type": "JS_MODULE",
@@ -27,6 +27,6 @@
         "propertyName": "inputs.getCountUsers"
       }
     },
-    "name": "JSModule1"
+    "name": "JSModuleOne"
   }
 }

@@ -1,13 +1,13 @@
 {
   "gitSyncId": "67d16ca767c40648418e9089_59745d35-0745-4d05-ab92-7171abdda137",
-  "id": "JSModule1_CountUsers",
+  "id": "JSModuleOne_CountUsers",
   "moduleUUID": "01ba9752-0723-4dc6-94c6-9bcc7d568cbb",
   "packageUUID": "14687fb9-1ee1-4d88-a867-0e374ee1a81c",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {},
-    "moduleId": "JSModule1",
+    "moduleId": "JSModuleOne",
     "moduleInputs": {},
     "name": "CountUsers"
   }

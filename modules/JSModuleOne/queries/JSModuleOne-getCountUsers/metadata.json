@@ -1,23 +1,18 @@
 {
-  "gitSyncId": "3c4e1923-f057-41c3-99e8-5eea5d73bf1d_37538ced-335c-47cd-ab80-97f3b49bfc6d",
-  "id": "JSModule1_JSModule1.getUsers",
+  "gitSyncId": "efdec16c-82fe-4001-944c-c553ad23c79e_b9e449c8-7560-4b31-93bb-d6d071aaf5e9",
+  "id": "JSModuleOne_JSModuleOne.getCountUsers",
   "isPublic": true,
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
     "actionConfiguration": {
       "encodeParamsToggle": true,
-      "jsArguments": [
-        {
-          "name": "limit",
-          "value": "{{1}}"
-        }
-      ],
+      "jsArguments": [],
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
     "clientSideExecution": true,
-    "collectionId": "JSModule1_JSModule1",
+    "collectionId": "JSModuleOne_JSModuleOne",
     "confirmBeforeExecute": false,
     "contextType": "MODULE",
     "datasource": {
@@ -31,9 +26,9 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "JSModule1.getUsers",
-    "moduleId": "JSModule1",
-    "name": "getUsers",
+    "fullyQualifiedName": "JSModuleOne.getCountUsers",
+    "moduleId": "JSModuleOne",
+    "name": "getCountUsers",
     "userSetOnLoad": false
   }
 }
