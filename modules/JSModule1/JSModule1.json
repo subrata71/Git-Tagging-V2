@@ -9,16 +9,16 @@
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
-            "id": "hcemoumico",
-            "label": "getUsers",
-            "propertyName": "inputs.myFun1"
+            "id": "ucovdvxpxw",
+            "label": "getCountUsers",
+            "propertyName": "inputs.getCountUsers"
           },
           {
             "controlType": "INPUT_TEXT",
-            "defaultValue": "[]",
-            "id": "ucovdvxpxw",
-            "label": "getCountUsers",
-            "propertyName": "inputs.myFun2"
+            "defaultValue": "[\"{{1}}\"]",
+            "id": "hcemoumico",
+            "label": "getUsers",
+            "propertyName": "inputs.getUsers"
           }
         ],
         "id": "hhvvuioksb",

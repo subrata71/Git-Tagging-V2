@@ -6,7 +6,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.\"users\" LIMIT 10;",
+      "body": "SELECT * FROM public.\"users\" LIMIT {{inputs.limit}};",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -24,7 +24,11 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
-    "dynamicBindingPathList": [],
+    "dynamicBindingPathList": [
+      {
+        "key": "body"
+      }
+    ],
     "moduleId": "GetUsers",
     "name": "GetUsers",
     "userSetOnLoad": false

@@ -6,9 +6,19 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
-    "inputs": {},
+    "inputs": {
+      "limit": ""
+    },
     "moduleId": "JSModule1",
-    "moduleInputs": {},
+    "moduleInputs": {
+      "begjmfoeoh": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "begjmfoeoh",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
     "name": "GetUsers"
   }
 }

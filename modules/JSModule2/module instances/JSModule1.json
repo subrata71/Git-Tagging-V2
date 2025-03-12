@@ -14,17 +14,17 @@
     "moduleInputs": {
       "hcemoumico": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
+        "defaultValue": "[\"{{1}}\"]",
         "id": "hcemoumico",
         "label": "getUsers",
-        "propertyName": "inputs.myFun1"
+        "propertyName": "inputs.getUsers"
       },
       "ucovdvxpxw": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "ucovdvxpxw",
         "label": "getCountUsers",
-        "propertyName": "inputs.myFun2"
+        "propertyName": "inputs.getCountUsers"
       }
     },
     "name": "JSModule1"

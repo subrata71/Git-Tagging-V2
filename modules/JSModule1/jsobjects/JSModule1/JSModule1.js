@@ -1,10 +1,10 @@
 export default {
 	myVar1: [],
 	myVar2: {},
-	getUsers () {
+	getUsers (limit=1) {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return GetUsers.run();
+		return GetUsers.run({ limit: limit })
 	},
 	async getCountUsers () {
 		//	use async-await or promises
